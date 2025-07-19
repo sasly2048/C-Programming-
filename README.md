@@ -1,5 +1,5 @@
-**🖥️ **Daily C Programming Practice **
-**
+🖥️ **Daily C Programming Practice** 
+
 📌 About This Repository : 
 
 This repository is dedicated to my daily practice of the **C Programming Language**. 
