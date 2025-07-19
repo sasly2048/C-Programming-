@@ -1,5 +1,3 @@
----
-
 Daily C Programming Practice 🖥️
 
 📌 About This Repository : 
@@ -23,5 +21,5 @@ Let's grow together 🚀
 ### 🔗 Connect on LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/raghavendra-g204800/)
 
----
+
 
