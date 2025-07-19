@@ -19,8 +19,7 @@ I'm happy to share knowledge and learn from others!
 Let's grow together 🚀
 
 ## 🔗 Connect on other platforms : 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendra-g204800/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendra-g204800/)
 
 [![Connect on Discord](https://img.shields.io/badge/Connect%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sasly204800)
 
