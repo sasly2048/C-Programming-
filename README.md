@@ -1,3 +1,5 @@
+---
+
 Daily C Programming Practice 🖥️
 
 📌 About This Repository : 
@@ -17,4 +19,9 @@ Feel free to explore any folder. Each folder contains:
 
 I'm happy to share knowledge and learn from others!  
 Let's grow together 🚀
+
+### 🔗 Connect on LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/raghavendra-g204800/)
+
+---
 
