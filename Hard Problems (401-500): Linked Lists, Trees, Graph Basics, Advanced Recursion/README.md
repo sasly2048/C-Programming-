@@ -1,4 +1,4 @@
-# Hard Problems (401-700): Linked Lists, Trees, Graph Basics, Advanced Recursion and Dynamic Programming
+# Hard Problems (401-500): Linked Lists, Trees, Graph Basics, Advanced Recursion and Dynamic Programming
 
 This folder contains **hard-level C programming problems** designed to improve your skills in data structures and algorithms, with a focus on practical problem-solving and efficient code design.
 
