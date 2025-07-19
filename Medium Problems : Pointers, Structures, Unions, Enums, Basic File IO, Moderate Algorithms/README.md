@@ -1,4 +1,4 @@
-# Medium Problems : Pointers, Structures, Unions, Enums, Basic File I/O, Moderate Algorithms
+# Medium Problems (201-500) : Pointers, Structures, Unions, Enums, Basic File I/O, Moderate Algorithms
 
 This folder contains **medium-level C programming problems** designed to strengthen your understanding of more advanced core concepts in C.
 
